@@ -1,1 +1,3 @@
-# [Template-browser-not-supported](https://mateuszmatysiak.github.io/template-browser-not-supported/)
+# Template browser not supported
+
+Template informing about the lack of the current version of the browser and enabling the download of a new browser.
